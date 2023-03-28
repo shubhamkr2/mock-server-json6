@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "rahul123",
+      "url": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png",
+      "email": "rahul@123",
+      "password": "rahul123"
+    },
+    {
+      "id": 2,
+      "username": "ankit123",
+      "url": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460__340.png",
+      "email": "ankit@123",
+      "password": "ankit123"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "director": "Sam Raimi",
+      "year": 2022,
+      "genre": "Action",
+      "IMDB_Rating": 6.8,
+      "ticket": 200
+    },
+    {
+      "id": 2,
+      "poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
+      "title": "I Am Legend",
+      "director": "Francis Lawrence",
+      "year": 2007,
+      "genre": "Horror",
+      "IMDB_Rating": 7.2,
+      "ticket": 200
+    },
+    {
+      "id": 3,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_FMjpg_UX1000_.jpg",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "director": "Van Dyne",
+      "year": 2023,
+      "genre": "Adventure",
+      "IMDB_Rating": 5.8,
+      "ticket": 400
+    },
+    {
+      "id": 4,
+      "poster": "https://thecrimsonwhite.com/wp-content/uploads/2022/11/wakanda_forever.jpg",
+      "title": "Black Panther: Wakanda Forever",
+      "director": "King T'Challa",
+      "year": 2015,
+      "genre": "Drama",
+      "IMDB_Rating": 8.2,
+      "ticket": 500
+    },
+    {
+      "id": 5,
+      "poster": "https://m.media-amazon.com/images/M/MV5BOGU0OWQyMjItYzA4Zi00MDFiLThiZWQtZmEyNWRiODAzYzNmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "title": "Loki",
+      "director": "Mischief",
+      "year": 2020,
+      "genre": "Fantasy",
+      "IMDB_Rating": 4.8,
+      "ticket": 600
+    },
+    {
+      "id": 6,
+      "poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
+      "title": "I Am Legend",
+      "director": "Francis Lawrence",
+      "year": 2007,
+      "genre": "Horror",
+      "IMDB_Rating": 7.2,
+      "ticket": 200
+    },
+    {
+      "id": 7,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+      "title": "Avengers: Endgame",
+      "director": "Joe Russo",
+      "year": 2019,
+      "genre": "Action",
+      "IMDB_Rating": 3.8,
+      "ticket": 800
+    },
+    {
+      "id": 8,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg",
+      "title": "Spider-Man: No Way Home",
+      "director": "Jon Watts",
+      "year": 2014,
+      "genre": "Si-Fi",
+      "IMDB_Rating": 5.2,
+      "ticket": 450
+    }
+  ],
+    "booked": [
+    {
+      "id": 1,
+      "username":"rahul123",
+      "title": "Spider-Man: No Way Home"
+    },
+    {
+      "id": 2,
+      "username":"rahul123",
+      "title": "Doctor Strange in the Multiverse of Madness"
+    },
+    {
+      "id": 3,
+      "username":"ankit123",
+      "title": "Doctor Strange in the Multiverse of Madness"
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "email": "eve.holt@reqres.in",
+      "password": "cityslicka"
+    }
+  ]
+}
