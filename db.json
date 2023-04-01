@@ -15,7 +15,7 @@
       "password": "ankit123"
     }
   ],
-  "movies": [
+  "movies": [ 
     {
       "id": 1,
       "poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
